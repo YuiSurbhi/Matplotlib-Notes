@@ -1,0 +1,13 @@
+About Matplotlib:
+
+▫️ Matplotlib is a widely used Python library for creating static, animated, and interactive 
+  visualizations graph in Python.
+
+History:
+
+▫️ Matplotlib was created by John D. Hunter in 2003.
+▫️ It was designed for generating plot and visualizations.
+
+What is Pyplot:
+
+▫️
