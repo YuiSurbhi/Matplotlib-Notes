@@ -1,0 +1,27 @@
+About Matplotlib:
+
+▫️ Matplotlib is a widely used Python library for creating static, animated, and interactive 
+  visualizations graph in Python.
+▫️ The data is represented in the form of graph.
+
+History:
+
+▫️ Matplotlib was created by John D. Hunter in 2003.
+▫️ It was designed for generating plot and visualizations.
+
+What is Pyplot:
+
+▫️ Pyplot is a submodule of Matplotlib library that provides simple and convenient interface for plots
+  and visualizations in graph.
+
+▫️ It is typically imported as plt and is one of the most common component used in Matplotlib.
+
+Installation Method:
+
+1. Matplotlib environment setup:-
+
+    ▫️ pip install matplotlib
+
+2. How we can use it:-
+
+    ▫️ import matplotlib pyplot as plt 
