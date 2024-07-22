@@ -1,6 +1,9 @@
 # Matplotlib-Notes
 
+<h1 align="center">
 <img src="https://matplotlib.org/_static/logo2.svg" alt="Matplotlib Logo" width="400"/>
+</h1><br>
+
 **📊 Matplotlib:** Matplotlib  is a widely-used Python library for creating 🖼️ static, animated, and interactive visualizations 📈. It was originally inspired by MATLAB and aims to provide a similar plotting interface in Python 🐍.<br>
 
 ▫️ Matplotlib is a widely used Python library for creating static, animated, and interactive 
