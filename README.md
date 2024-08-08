@@ -13,7 +13,7 @@
 
 ## History 📜:
 
-▫️ Matplotlib was created by <ins>John D. Hunter</ins> in 2003.<br>
+▫️ Matplotlib was created by <ins>*John D. Hunter*</ins> in 2003.<br>
 
 ▫️ It was designed for generating plot and visualizations.<br>
 
@@ -26,7 +26,7 @@
 
 ## Installation 🔧:
 
-▪️ If <ins>Python</ins> and <ins>PIP</ins> are already installed on your system, then installation of Matplotlib is very easy.<br>
+▪️ If <ins>*Python*</ins> and <ins>*PIP*</ins> are already installed on your system, then installation of Matplotlib is very easy.<br>
 
 ▪️ Install it using this command:<br>
 
